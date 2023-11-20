@@ -1,2 +1,2 @@
-# sifeclonednightlife.github.io
+# ClonedNightLife
 I have cloned this website (https://night-life-wcopilot.webflow.io/) as a project for my Web Dev learning journey
